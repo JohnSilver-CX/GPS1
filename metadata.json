@@ -1,0 +1,8 @@
+{
+  "name": "Gurukul Public School - No. 1 School in Meerut",
+  "description": "A vibrant, modern educational platform for Gurukul Public School featuring AI-integrated curriculum, offline-capable assistant, and interactive educational games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
